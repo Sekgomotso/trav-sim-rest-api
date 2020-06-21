@@ -1,7 +1,8 @@
 # trav-sim-rest-api
 
 ## Instructions:
-### Download and install python3.7
+
+Download and install python3.7
 
 ### Create a virtual environment
 1. For virtualwrapper: 
@@ -23,7 +24,7 @@ To activate:
 source rest-api/bin/activate
 ```
 
-#### Install the modules in requirement.txt 
+### Install the modules in requirement.txt 
 ```
 pip3 install -r requirements.txt 
 ```
@@ -46,7 +47,7 @@ python3 manage.py createsuperuser
 python3 manage.py runserver
 ```
 ### Factors considered determining the technical and architectural choices
-#### Authentication, methods required, status codes, content type and documentation
+Authentication, methods required, status codes, content type and documentation
 
 ### What I'd do if I had more time
-#### More research, user friendly and make it secure.
+More research, user friendly and make it secure.
